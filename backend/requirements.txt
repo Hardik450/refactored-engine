@@ -2,7 +2,7 @@ fastapi==0.104.1
 uvicorn==0.24.0
 
 python-multipart==0.0.6
-Django==5.0.6
+Django==5.1.14
 pandas==2.2.3 --only-binary=:all:
 
 numpy==2.3.3
